@@ -1,0 +1,29 @@
+9
+What is sin(a + b)?
+2
+sinacosb+cosasinb
+cosasinb+sinacosb
+What is cos(a + b)?
+1
+cosaco-sinasinb
+What is tan(a + b)?
+1
+tana+tanb/1-tanatanb
+What is sin(2a)?
+1
+2sinacosa
+What is cos(2a)?
+1
+cos^2a-sin^2a
+What is tan(2a)?
+1
+2tana/1-tan^2a
+What is sin(a/2)?
+1
+sqrt(1-cosa/2)
+What is cos(a/2)?
+1
+sqrt(1+cosa/2)
+What is tan(a/2)?
+1
+sqrt(1-cosa/1+cosa)
